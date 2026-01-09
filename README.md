@@ -10,7 +10,7 @@ Transactions-Manager/<br />
 ├── Backend/ # Backend (Node.js, Express, MongoDB) <br />
 ├── frontend/ # Frontend (React)<br />
 ├── .gitignore<br />
-├── README.md,br />
+├── README.md<br />
 
  -> Features
 
